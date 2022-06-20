@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Grafana Labs Blog on Grafana Labs</title>
+		<link>https://grafana.com/blog/</link>
+		<description>Recent content in Grafana Labs Blog on Grafana Labs</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml"/>
+		<item>
+			<title>Azure</title>
+			<meta property="og:image" content="https://www.cnthoth.com/themes/cnthoth/images/common/c3_img1.jpg?v=20200514a"/>
+			<link>https://www.cnthoth.com/docs/sub02/microsoft/?&amp;utm_medium=rss</link>
+			<pubDate>Fri, 17 Jun 2022 12:30:00 +0000</pubDate>
+			<guid>https://www.cnthoth.com/docs/sub02/microsoft/?utm_source=grafana_news&amp;utm_medium=rss&amp;src=in-prod&amp;plcmt=rss</guid>
+			<description>끊임없이 확장되고 발전하는 Microsoft Azure 플랫폼이 귀사의 업무를 처리해 드립니다.</description>
+		</item>
+		<item>
+			<title>Security</title>
+			<meta property="og:image" content="https://www.cnthoth.com/themes/cnthoth/images/common/c3_img2.jpg?v=20200514a"/>
+			<link>https://www.cnthoth.com/docs/sub02/security</link>
+			<pubDate>Fri, 17 Jun 2022 12:30:00 +0000</pubDate>
+			<guid>https://www.cnthoth.com/docs/sub02/security</guid>
+			<description>기업에서 고민하는 보안관련 전문 솔루션 및 서비스를 제공합니다.</description>
+		</item>
+	</channel>
+</rss>
