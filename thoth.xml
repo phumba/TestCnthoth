@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<title>Grafana Labs Blog on Grafana Labs</title>
@@ -18,7 +18,7 @@
 		<item>
 			<title>Microsoft 365</title>
 			<meta property="og:image" content="https://www.cnthoth.com/themes/cnthoth/images/common/c3_img2.jpg?v=20200514a"/>
-			<link>https://www.cnthoth.com/docs/sub02/security#microsoft365</link>
+			<link>https://www.cnthoth.com/docs/sub02/microsoft#microsoft365</link>
 			<pubDate>Fri, 17 Jun 2022 12:30:00 +0000</pubDate>
 			<guid>https://www.cnthoth.com/docs/sub02/security</guid>
 			<description>Microsoft 365는 업무 진행 방식을 새롭게 전환하는강력한 클라우드 서비스, 디바이스 관리, 고급 보안 기능이 포함된 최고의 Office 앱을 한 데 모아 제공하는 생산성 클라우드입니다.혁신적인 Office 앱, 지능형 클라우드 서비스 및 세계적인 수준의 보안으로 더 많은 성과를 내도록 설계되었습니다.</description>
